@@ -52,7 +52,7 @@ main {
     min-height: 80rem;
   }
   main {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: 35rem auto;
     margin: 16.3rem auto 0;
   }
 }
